@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JulieHigelin
-- 👀 I’m interested in Data (Data Engineering, Data analytics, Data science...)
+- 👀 I’m interested in Data: Data Engineering, Data Analytics, Data Science...
 - 🌱 I’m currently learning what is RAG and how does it work
 
 <!---
